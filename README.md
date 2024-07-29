@@ -41,23 +41,10 @@ I love building intuitive and visually appealing web applications that make a po
   <img src="https://github-profile-trophy.vercel.app/?username=soumyadeepdutta7&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies">
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyadeepdutta7&show_icons=true&theme=dracula" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeepdutta7&theme=dracula" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeepdutta7&layout=compact&theme=dracula" alt="Top Languages">
-</p>
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via [email](mailto:soumyadeepdutta.sd@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/soumyadeep-dutta-b142581a1/). I'm always open to new opportunities and collaborations!
+Feel free to reach out to me via [email](mailto: adityakumarsingh432001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in//). I'm always open to new opportunities and collaborations!
 
 ---
 
@@ -66,10 +53,10 @@ Feel free to reach out to me via [email](mailto:soumyadeepdutta.sd@gmail.com) or
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/soumyadeep-dutta-b142581a1">
+  <a href="https://www.linkedin.com/in/adityaksingh">
     <img src="https://img.shields.io/badge/LinkedIn-Soumyadeep%20Dutta-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
   </a>
-  <a href="mailto:soumyadeepdutta.sd@gmail.com">
+  <a href="mailto:adityakumarsingh432001@gmail.com">
     <img src="https://img.shields.io/badge/Email-soumyadeepdutta.sd@gmail.com-blue?style=flat&logo=gmail" alt="Email Badge">
   </a>
 </p>
