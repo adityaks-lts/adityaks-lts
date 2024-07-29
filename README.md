@@ -54,10 +54,9 @@ Feel free to reach out to me via [email](mailto: adityakumarsingh432001@gmail.co
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adityaksingh">
-    <img src="https://img.shields.io/badge/LinkedIn-Soumyadeep%20Dutta-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
   </a>
   <a href="mailto:adityakumarsingh432001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-soumyadeepdutta.sd@gmail.com-blue?style=flat&logo=gmail" alt="Email Badge">
+    <img src="https://img.shields.io/badge/Email-adityakumarsingh432001@gmail.com-blue?style=flat&logo=gmail" alt="Email Badge">
   </a>
 </p>
 <p align="center">
