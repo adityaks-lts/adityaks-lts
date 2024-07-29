@@ -35,11 +35,7 @@ I love building intuitive and visually appealing web applications that make a po
 - **Tools:** Git, Webpack, npm, Yarn, Wix Website Builder, Typeforms, CRM 
 - **Responsive Design:** Bootstrap, Flexbox, Grid, Tailwind
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soumyadeepdutta7&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies">
-</p>
 
 
 ## 📫 Contact Me
